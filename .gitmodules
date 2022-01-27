@@ -1,3 +1,6 @@
 [submodule "CraftsTrading"]
 	path = CraftsTrading
 	url = https://github.com/ro61n/CraftsTrading
+[submodule "Crypto_Parallel_API_Requests"]
+	path = Crypto_Parallel_API_Requests
+	url = https://github.com/ro61n/Crypto_Parallel_API_Requests
